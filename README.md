@@ -1,2 +1,2 @@
-# DigtialImageProcess
+# DigtialImageProcessing
 数字图像处理实验
